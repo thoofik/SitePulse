@@ -424,21 +424,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Flask** for the backend framework
 - **Tailwind CSS** for styling and components
 
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/sitepulse/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/sitepulse/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/sitepulse/discussions)
-- **Email**: support@sitepulse.com
-
----
-
-<div align="center">
-
-**Made with ❤️ by the SitePulse Team**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/sitepulse?style=social)](https://github.com/yourusername/sitepulse)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/sitepulse?style=social)](https://github.com/yourusername/sitepulse)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/sitepulse)](https://github.com/yourusername/sitepulse/issues)
 
 </div>
