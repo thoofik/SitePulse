@@ -4,7 +4,7 @@ A comprehensive, real-time website auditing platform that provides detailed perf
 
 ![SitePulse Logo](https://img.shields.io/badge/SitePulse-Audit%20Tool-blue?style=for-the-badge&logo=shield-check)
 ![Version](https://img.shields.io/badge/Version-2.1.0-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 ## ✨ Features
 
