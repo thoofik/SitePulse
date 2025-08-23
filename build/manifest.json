@@ -1,0 +1,18 @@
+{
+  "short_name": "SitePulse",
+  "name": "SitePulse - Website Audit Platform",
+  "description": "Comprehensive website auditing platform for security, performance, SEO, and accessibility analysis",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "categories": ["productivity", "utilities", "developer-tools"],
+  "lang": "en"
+}
